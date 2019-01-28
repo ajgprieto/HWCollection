@@ -1,0 +1,1793 @@
+[
+  {
+    "Brand": "Delorean",
+    "Model": "DMC-12",
+    "Name on Card": "'81 Delorean DMC-12",
+    "Color": "Dark Grey",
+    "Series": "HW City",
+    "Card Number": "BCF53",
+    "Quantity": 2
+  },
+  {
+    "Brand": "Delorean",
+    "Model": "DMC-12",
+    "Name on Card": "'81 Delorean DMC-12",
+    "Color": "Red",
+    "Series": "HW City",
+    "Card Number": "BFF47",
+    "Quantity": 2
+  },
+  {
+    "Brand": "Cadilac",
+    "Model": "Fleetwood",
+    "Name on Card": "Custom Cadilac Fleetwood",
+    "Color": "Red",
+    "Series": "HW Showroom",
+    "Card Number": "X1988",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Lotus",
+    "Model": "Esprit S1",
+    "Name on Card": "Lotus Esprit S1",
+    "Color": "Red",
+    "Series": "HW Workshop",
+    "Card Number": "CFJ74",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Lotus",
+    "Model": "Esprit S1",
+    "Name on Card": "Lotus Esprit S1",
+    "Color": "White",
+    "Series": "HW Workshop",
+    "Card Number": "CFG74",
+    "Quantity": 2
+  },
+  {
+    "Brand": "Lotus",
+    "Model": "Evora GT4",
+    "Name on Card": "Lotus Evora GT4",
+    "Color": "White",
+    "Series": "HW Workshop",
+    "Card Number": "BFD67",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Lotus",
+    "Model": "Evora GT4",
+    "Name on Card": "Lotus Evora GT4",
+    "Color": "Black",
+    "Series": "HW City",
+    "Card Number": "X2049",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Lotus",
+    "Model": "Evora GT4",
+    "Name on Card": "Lotus Evora GT4",
+    "Color": "Green",
+    "Series": "HW City",
+    "Card Number": "X1618",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Alfa Romeo",
+    "Model": "8C",
+    "Name on Card": "Alfa Romeo 8C Competizione",
+    "Color": "Black",
+    "Series": "HW City",
+    "Card Number": "BFC50",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Alfa Romeo",
+    "Model": "8C",
+    "Name on Card": "Alfa Romeo 8C Competizione",
+    "Color": "Red",
+    "Series": "HW City",
+    "Card Number": "BFF86",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Mini",
+    "Model": "Morris",
+    "Name on Card": "Morris Mini",
+    "Color": "Blue",
+    "Series": "HW Workshop",
+    "Card Number": "BFD68",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Mini",
+    "Model": "Morris",
+    "Name on Card": "Morris Mini",
+    "Color": "Red",
+    "Series": "HW Snow Stormers",
+    "Card Number": "DTY28",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Subaru",
+    "Model": "Imprezza WRX",
+    "Name on Card": "Subaru Imprezza WRX",
+    "Color": "Red",
+    "Series": "HW Off-Road",
+    "Card Number": "BFC99",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Jaguar",
+    "Model": "F-Type",
+    "Name on Card": "'15 Jaguar F-Type Project 7",
+    "Color": "Red",
+    "Series": "HW Showroom",
+    "Card Number": "DHR26",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Buick",
+    "Model": "Riviera",
+    "Name on Card": "1971 Buick Riviera",
+    "Color": "Green",
+    "Series": "HW City",
+    "Card Number": "CFH4",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Buick",
+    "Model": "GSX",
+    "Name on Card": "'70 Buick GSX",
+    "Color": "Black",
+    "Series": "HW Workshop",
+    "Card Number": "BFG47",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Pagani",
+    "Model": "Huayra",
+    "Name on Card": "Pagani Huayra",
+    "Color": "Silver",
+    "Series": "HW City",
+    "Card Number": "X1991",
+    "Quantity": 1
+  },
+  {
+    "Brand": "McLaren",
+    "Model": "720S",
+    "Name on Card": "McLaren 720S",
+    "Color": "Orange",
+    "Series": "Factory Fresh",
+    "Card Number": "DTW83",
+    "Quantity": 2
+  },
+  {
+    "Brand": "McLaren",
+    "Model": "P1",
+    "Name on Card": "McLaren P1",
+    "Color": "White",
+    "Series": "HW Exotics",
+    "Card Number": "FJY00",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Fiat",
+    "Model": 500,
+    "Name on Card": "Fiat 500",
+    "Color": "Red",
+    "Series": "HW City",
+    "Card Number": "X1616",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Jeep",
+    "Model": "Scrambler",
+    "Name on Card": "Jeep Scrambler",
+    "Color": "Red",
+    "Series": "HW Off-Road",
+    "Card Number": "BFD64",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Plymouth",
+    "Model": "Baracuda",
+    "Name on Card": "'68 Plymouth Baracuda Formula S",
+    "Color": "Grey",
+    "Series": "HW Workshop",
+    "Card Number": "BFG75",
+    "Quantity": 2
+  },
+  {
+    "Brand": "Plymouth",
+    "Model": "Baracuda",
+    "Name on Card": "'68 Plymouth Baracuda Formula S",
+    "Color": "Gold",
+    "Series": "HW Workshop",
+    "Card Number": "BFF16",
+    "Quantity": 2
+  },
+  {
+    "Brand": "Plymouth",
+    "Model": "Road Runner",
+    "Name on Card": "'71 Plymouth Road Runner",
+    "Color": "Red",
+    "Series": "HW Workshop",
+    "Card Number": "BFG03",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Plymouth",
+    "Model": "Road Runner",
+    "Name on Card": "'71 Plymouth Road Runner",
+    "Color": "Green",
+    "Series": "HW Workshop",
+    "Card Number": "BFF20",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Plymouth",
+    "Model": "Baracuda",
+    "Name on Card": "'71 Hemi Cuda",
+    "Color": "Blue",
+    "Series": "HW Workshop",
+    "Card Number": "CFH96",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Mazda",
+    "Model": "RX-7",
+    "Name on Card": "'95 Mazda RX-7",
+    "Color": "Green",
+    "Series": "Nightburnerz",
+    "Card Number": "FJY97",
+    "Quantity": 5
+  },
+  {
+    "Brand": "Mazda",
+    "Model": "RX-7",
+    "Name on Card": "Mazda RX-7",
+    "Color": "Red",
+    "Series": "HW City",
+    "Card Number": "BFC43",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Mazda",
+    "Model": "RX-7",
+    "Name on Card": "Mazda RX-7",
+    "Color": "Yellow",
+    "Series": "HW City",
+    "Card Number": "BFG39",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Mazda",
+    "Model": "Miata",
+    "Name on Card": "'15 Mazda MX-5 Miata",
+    "Color": "Yellow",
+    "Series": "HW Speed Graphics",
+    "Card Number": "DTX65",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Mazda",
+    "Model": "Miata",
+    "Name on Card": "'15 Mazda MX-5 Miata",
+    "Color": "Blue",
+    "Series": "Nightburnerz",
+    "Card Number": "FJY96",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Mercury",
+    "Model": "Cougar",
+    "Name on Card": "'68 Mercury Cougar",
+    "Color": "Red",
+    "Series": "HW Race",
+    "Card Number": "BFG65",
+    "Quantity": 2
+  },
+  {
+    "Brand": "Mercury",
+    "Model": "Cougar",
+    "Name on Card": "'68 Mercury Cougar",
+    "Color": "White",
+    "Series": "HW Race",
+    "Card Number": "BDD08",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Mercury",
+    "Model": "Cougar",
+    "Name on Card": "'69 Mercury Cougar Eliminator",
+    "Color": "Teal",
+    "Series": "HW Workshop",
+    "Card Number": "BFD98",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Aston Martin",
+    "Model": "DB5",
+    "Name on Card": "Aston Martin 1963 DB5",
+    "Color": "Red",
+    "Series": "Then and Now",
+    "Card Number": "DHR16",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Aston Martin",
+    "Model": "DB5",
+    "Name on Card": "Aston Martin 1963 DB5",
+    "Color": "Green",
+    "Series": "HW Workshop",
+    "Card Number": "BDD14",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Audi",
+    "Model": "Sport Quattro",
+    "Name on Card": "'84 Audi Sprot Quattro",
+    "Color": "White",
+    "Series": "Baja Blazers",
+    "Card Number": "FWG04",
+    "Quantity": 2
+  },
+  {
+    "Brand": "Mastretta",
+    "Model": "MXR",
+    "Name on Card": "Mastretta MXR",
+    "Color": "Red",
+    "Series": "HW Race",
+    "Card Number": "CFK94",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Mastretta",
+    "Model": "MXR",
+    "Name on Card": "Mastretta MXR",
+    "Color": "Blue",
+    "Series": "HW Race",
+    "Card Number": "BDD05",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Hyundai",
+    "Model": "Genesis",
+    "Name on Card": "Hyundai Genesis Coup",
+    "Color": "Purple",
+    "Series": "HW City",
+    "Card Number": "BFC35",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Scion",
+    "Model": "FR-S",
+    "Name on Card": "Scion FR-S",
+    "Color": "Silver",
+    "Series": "HW Workshop",
+    "Card Number": "CFJ14",
+    "Quantity": 2
+  },
+  {
+    "Brand": "Scion",
+    "Model": "FR-S",
+    "Name on Card": "Scion FR-S",
+    "Color": "Silver",
+    "Series": "HW Workshop",
+    "Card Number": "BFF06",
+    "Quantity": 3
+  },
+  {
+    "Brand": "Lincoln",
+    "Model": "Continental",
+    "Name on Card": "'64 Lincoln Continental",
+    "Color": "Baby Blue",
+    "Series": "HW Workshop",
+    "Card Number": "BFD79",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Ferrari",
+    "Model": "458 Italia",
+    "Name on Card": "Ferrari 458 Italia",
+    "Color": "Black",
+    "Series": "HW City",
+    "Card Number": "BFC55",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Ferrari",
+    "Model": "458 Italia",
+    "Name on Card": "Ferrari 458 Italia",
+    "Color": "Blue",
+    "Series": "HW City",
+    "Card Number": "BFF72",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Ferrari",
+    "Model": "LaFerrari",
+    "Name on Card": "LaFerrari",
+    "Color": "Red",
+    "Series": "HW City",
+    "Card Number": "BDC80",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Ferrari",
+    "Model": "F12 Berlinetta",
+    "Name on Card": "Ferrari F12 Berlinetta",
+    "Color": "Silver",
+    "Series": "HW City",
+    "Card Number": "BFC51",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Ducatti",
+    "Model": "1199 Panigale",
+    "Name on Card": "Ducatti 1199 Panigale",
+    "Color": "White",
+    "Series": "HW City",
+    "Card Number": "BFF83",
+    "Quantity": 2
+  },
+  {
+    "Brand": "Toyota",
+    "Model": "Tundra",
+    "Name on Card": "'10 Toyota Tundra",
+    "Color": "Blue",
+    "Series": "HW Off-Road",
+    "Card Number": "BFD57",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Toyota",
+    "Model": "Supra",
+    "Name on Card": "Toyota Supra",
+    "Color": "Blue",
+    "Series": "HW City",
+    "Card Number": "BFC44",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Toyota",
+    "Model": "2000 GT",
+    "Name on Card": "Toyota 2000 GT",
+    "Color": "Black",
+    "Series": "HW Workshop",
+    "Card Number": "BFD66",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Toyota",
+    "Model": "2000 GT",
+    "Name on Card": "Toyota 2000 GT",
+    "Color": "Yellow",
+    "Series": "HW Workshop",
+    "Card Number": "BFF53",
+    "Quantity": 2
+  },
+  {
+    "Brand": "Toyota",
+    "Model": "AE-86 Corolla",
+    "Name on Card": "Toyota AE-86 Corolla",
+    "Color": "Silver",
+    "Series": "HW Workshop",
+    "Card Number": "BFF01",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Honda",
+    "Model": "Civic EF",
+    "Name on Card": "1990 Honda Civic EF",
+    "Color": "Red",
+    "Series": "HW City",
+    "Card Number": "BDC77",
+    "Quantity": 3
+  },
+  {
+    "Brand": "Honda",
+    "Model": "Civic Type R",
+    "Name on Card": "'16 Honda Civic Type R",
+    "Color": "Red",
+    "Series": "HW Speed Graphics",
+    "Card Number": "FJW42",
+    "Quantity": 5
+  },
+  {
+    "Brand": "Honda",
+    "Model": "S2000",
+    "Name on Card": "Honda S2000",
+    "Color": "White",
+    "Series": "HW City",
+    "Card Number": "CFH40",
+    "Quantity": 1
+  },
+  {
+    "Brand": "BMW",
+    "Model": "M4",
+    "Name on Card": "BMW M4",
+    "Color": "Turquoise",
+    "Series": "Factory Fresh",
+    "Card Number": "DVB57",
+    "Quantity": 3
+  },
+  {
+    "Brand": "BMW",
+    "Model": "M4",
+    "Name on Card": "BMW M4",
+    "Color": "Blue",
+    "Series": "Factory Fresh",
+    "Card Number": "DTX57",
+    "Quantity": 3
+  },
+  {
+    "Brand": "BMW",
+    "Model": "M4",
+    "Name on Card": "BMW M4",
+    "Color": "Gold",
+    "Series": "HW City",
+    "Card Number": "CFL31",
+    "Quantity": 1
+  },
+  {
+    "Brand": "BMW",
+    "Model": "M4",
+    "Name on Card": "BMW M4",
+    "Color": "Red",
+    "Series": "BMW",
+    "Card Number": "DHR83",
+    "Quantity": 3
+  },
+  {
+    "Brand": "BMW",
+    "Model": "E36 M3",
+    "Name on Card": "BMW E36 M3 Race",
+    "Color": "Red",
+    "Series": "HW Race",
+    "Card Number": "BFG64",
+    "Quantity": 2
+  },
+  {
+    "Brand": "BMW",
+    "Model": "E36 M3",
+    "Name on Card": "BMW E36 M3 Race",
+    "Color": "White",
+    "Series": "HW Race",
+    "Card Number": "BDD07",
+    "Quantity": 2
+  },
+  {
+    "Brand": "BMW",
+    "Model": "M3",
+    "Name on Card": "'92 BMW M3",
+    "Color": "Red",
+    "Series": "HW Workshop",
+    "Card Number": "BFD69",
+    "Quantity": 1
+  },
+  {
+    "Brand": "BMW",
+    "Model": "M3",
+    "Name on Card": "92 BMW M3",
+    "Color": "White",
+    "Series": "HW Workshop",
+    "Card Number": "BFV60",
+    "Quantity": 1
+  },
+  {
+    "Brand": "BMW",
+    "Model": "3.0 CSL",
+    "Name on Card": "'73 BMW 3.0 CSL Race Car",
+    "Color": "White",
+    "Series": "BMW",
+    "Card Number": "DHP29",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Porsche",
+    "Model": "911 GT3RS",
+    "Name on Card": "Porsche 911 GT3RS",
+    "Color": "Green",
+    "Series": "Nightburnerz",
+    "Card Number": "DTY80",
+    "Quantity": 2
+  },
+  {
+    "Brand": "Porsche",
+    "Model": "911 GT3RS",
+    "Name on Card": "Porsche 911 GT3RS",
+    "Color": "Yellow",
+    "Series": "HW Workshop",
+    "Card Number": "CFH86",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Porsche",
+    "Model": "911 GT3RS",
+    "Name on Card": "Porsche 911 GT3RS",
+    "Color": "White",
+    "Series": "Then and Now",
+    "Card Number": "FJX93",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Porsche",
+    "Model": "911 GT3RS",
+    "Name on Card": "Porsche 911 GT3RS",
+    "Color": "Red",
+    "Series": "HW Workshop",
+    "Card Number": "CFL78",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Porsche",
+    "Model": "911 GT3RS",
+    "Name on Card": "Porsche 911 GT3RS",
+    "Color": "Black",
+    "Series": "HW Showroom",
+    "Card Number": "X1956",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Porsche",
+    "Model": "917 LH",
+    "Name on Card": "Porsche 917 LH",
+    "Color": "Baby Blue",
+    "Series": "Legends Of Speed",
+    "Card Number": "FJV93",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Porsche",
+    "Model": "Carrera GT",
+    "Name on Card": "Porsche Carrera GT",
+    "Color": "Yellow",
+    "Series": "HW Exotics",
+    "Card Number": "DHX20",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Porsche",
+    "Model": "Panamera",
+    "Name on Card": "Porsche Panamera",
+    "Color": "Red",
+    "Series": "HW City",
+    "Card Number": "BFF93",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Porsche",
+    "Model": "Panamera",
+    "Name on Card": "Porsche Panamera",
+    "Color": "Blue",
+    "Series": "HW City",
+    "Card Number": "BDC82",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Porsche",
+    "Model": "Panamera",
+    "Name on Card": "Porsche Panamera",
+    "Color": "White",
+    "Series": "HW Workshop",
+    "Card Number": "CFH85",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Porsche",
+    "Model": 934,
+    "Name on Card": "Porsche 934 Turbo RSR",
+    "Color": "White",
+    "Series": "Then and Now",
+    "Card Number": "FJX89",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Porsche",
+    "Model": 934,
+    "Name on Card": "Porsche 934 Turbo RSR",
+    "Color": "Blue",
+    "Series": "HW Speed Graphics",
+    "Card Number": "DHR77",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Porsche",
+    "Model": 934,
+    "Name on Card": "Porsche 934 Turbo RSR",
+    "Color": "Silver",
+    "Series": "HW Speed Graphics",
+    "Card Number": "DHX58",
+    "Quantity": 2
+  },
+  {
+    "Brand": "Porsche",
+    "Model": 934,
+    "Name on Card": "Porsche 934 Turbo RSR",
+    "Color": "Green",
+    "Series": "Then and Now",
+    "Card Number": "FKB18",
+    "Quantity": 3
+  },
+  {
+    "Brand": "Porsche",
+    "Model": 934,
+    "Name on Card": "Porsche 934 Turbo RSR",
+    "Color": "Silver",
+    "Series": "Nightburnerz",
+    "Card Number": "DTY84",
+    "Quantity": 2
+  },
+  {
+    "Brand": "Porsche",
+    "Model": 934,
+    "Name on Card": "Porsche 934 Turbo RSR",
+    "Color": "Orange",
+    "Series": "HW City",
+    "Card Number": "CFH17",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Porsche",
+    "Model": "993 GT2",
+    "Name on Card": "Porsche 993 GT2",
+    "Color": "White",
+    "Series": "HW City",
+    "Card Number": "BFF84",
+    "Quantity": 2
+  },
+  {
+    "Brand": "Porsche",
+    "Model": "993 GT2",
+    "Name on Card": "Porsche 993 GT2",
+    "Color": "Red",
+    "Series": "HW City",
+    "Card Number": "BFC48",
+    "Quantity": 2
+  },
+  {
+    "Brand": "Porsche",
+    "Model": 934.5,
+    "Name on Card": "Porsche 934.5",
+    "Color": "Blue",
+    "Series": "Nightburnerz",
+    "Card Number": "FJX65",
+    "Quantity": 2
+  },
+  {
+    "Brand": "Porsche",
+    "Model": 934.5,
+    "Name on Card": "Porsche 934.5",
+    "Color": "White",
+    "Series": "Factory Fresh",
+    "Card Number": "DTW87",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Porsche",
+    "Model": "918 Spyder",
+    "Name on Card": "Porsche 918 Spyder",
+    "Color": "Silver",
+    "Series": "Factory Fresh",
+    "Card Number": "FPT66",
+    "Quantity": 3
+  },
+  {
+    "Brand": "Porsche",
+    "Model": "918 Spyder",
+    "Name on Card": "Porsche 918 Spyder",
+    "Color": "Red",
+    "Series": "Factory Fresh",
+    "Card Number": "FJY16",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Porsche",
+    "Model": 911,
+    "Name on Card": "'71 Porsche 911",
+    "Color": "White",
+    "Series": "Nightburnerz",
+    "Card Number": "FJV41",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Porsche",
+    "Model": 911,
+    "Name on Card": "'71 Porsche 911",
+    "Color": "White",
+    "Series": "Nightburnerz",
+    "Card Number": "FKB02",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Lamborghini",
+    "Model": "Veneno",
+    "Name on Card": "Lamborghini Veneno",
+    "Color": "Green",
+    "Series": "HW Exotics",
+    "Card Number": "DVB09",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Lamborghini",
+    "Model": "Veneno",
+    "Name on Card": "Lamborghini Veneno",
+    "Color": "Red",
+    "Series": "HW Workshop",
+    "Card Number": "CFH84",
+    "Quantity": 2
+  },
+  {
+    "Brand": "Lamborghini",
+    "Model": "Veneno",
+    "Name on Card": "Lamborghini Veneno",
+    "Color": "Silver",
+    "Series": "HW City",
+    "Card Number": "BDC79",
+    "Quantity": 3
+  },
+  {
+    "Brand": "Lamborghini",
+    "Model": "Sesto Elemento",
+    "Name on Card": "Lamborghini Sesto Elemento",
+    "Color": "White",
+    "Series": "HW City",
+    "Card Number": "BDC81",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Lamborghini",
+    "Model": "Sesto Elemento",
+    "Name on Card": "Lamborghini Sesto Elemento",
+    "Color": "Dark Grey",
+    "Series": "HW City",
+    "Card Number": "BFF92",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Lamborghini",
+    "Model": "Aventador",
+    "Name on Card": "Lamborghini Aventador J",
+    "Color": "Yellow",
+    "Series": "HW Workshop",
+    "Card Number": "BFD070",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Lamborghini",
+    "Model": "Countach",
+    "Name on Card": "Lamborghini Countach",
+    "Color": "Red",
+    "Series": "Tooned",
+    "Card Number": "DVB37",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Lamborghini",
+    "Model": "Countach",
+    "Name on Card": "Lamborghini Countach",
+    "Color": "White",
+    "Series": "Tooned",
+    "Card Number": "DTX49",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Lamborghini",
+    "Model": "Huracan",
+    "Name on Card": "Lamborghini Huracan LP620-2 Super Trofeo",
+    "Color": "Yellow",
+    "Series": "HW Speed Graphics",
+    "Card Number": "DTX66",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Lamborghini",
+    "Model": "Huracan",
+    "Name on Card": "Lamborghini Huracan LP 610-4",
+    "Color": "Yellow",
+    "Series": "HW Workshop",
+    "Card Number": "CFH19",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Lamborghini",
+    "Model": "Huracan",
+    "Name on Card": "Lamborghini Huracan LP 610-4",
+    "Color": "Green",
+    "Series": "HW Workshop",
+    "Card Number": "CFL39",
+    "Quantity": 2
+  },
+  {
+    "Brand": "Lamborghini",
+    "Model": "Estoque",
+    "Name on Card": "Lamborghini Estoque",
+    "Color": "Red",
+    "Series": "HW Workshop",
+    "Card Number": "BFD71",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Acura",
+    "Model": "Integra GSR",
+    "Name on Card": "Custom '01 Acura Integra GSR",
+    "Color": "White",
+    "Series": "HW Speed Graphics",
+    "Card Number": "FYD03",
+    "Quantity": 11
+  },
+  {
+    "Brand": "Acura",
+    "Model": "Integra GSR",
+    "Name on Card": "Custom '01 Acura Integra GSR",
+    "Color": "White",
+    "Series": "Nightburnerz",
+    "Card Number": "DHX26",
+    "Quantity": 7
+  },
+  {
+    "Brand": "Acura",
+    "Model": "Integra GSR",
+    "Name on Card": "Custom '01 Acura Integra GSR",
+    "Color": "Yellow",
+    "Series": "Nightburnerz",
+    "Card Number": "DHP06",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Acura",
+    "Model": "Integra GSR",
+    "Name on Card": "Custom '01 Acura Integra GSR",
+    "Color": "White",
+    "Series": "HW Speed Graphics",
+    "Card Number": "DTX59",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Acura",
+    "Model": "Integra GSR",
+    "Name on Card": "Custom '01 Acura Integra GSR",
+    "Color": "Black",
+    "Series": "Nightburnerz",
+    "Card Number": "FJX69",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Acura",
+    "Model": "NSX",
+    "Name on Card": "'17 Acura NSX",
+    "Color": "Yellow",
+    "Series": "Factory Fresh",
+    "Card Number": "DTX56",
+    "Quantity": 4
+  },
+  {
+    "Brand": "Acura",
+    "Model": "NSX",
+    "Name on Card": "'12 Acura NSX Concept",
+    "Color": "Yellow",
+    "Series": "HW Workshop",
+    "Card Number": "CFK93",
+    "Quantity": 2
+  },
+  {
+    "Brand": "Acura",
+    "Model": "NSX",
+    "Name on Card": "'90 Acura NSX",
+    "Color": "Yellow",
+    "Series": "Nightburnerz",
+    "Card Number": "DTY78",
+    "Quantity": 4
+  },
+  {
+    "Brand": "Acura",
+    "Model": "NSX",
+    "Name on Card": "'90 Acura NSX",
+    "Color": "White",
+    "Series": "HW Workshop",
+    "Card Number": "CFL28",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Acura",
+    "Model": "NSX",
+    "Name on Card": "'90 Acura NSX",
+    "Color": "Black",
+    "Series": "Nightburnerz",
+    "Card Number": "DVC36",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Acura",
+    "Model": "NSX",
+    "Name on Card": "'90 Acura NSX",
+    "Color": "Blue",
+    "Series": "Then and Now",
+    "Card Number": "DHR18",
+    "Quantity": 3
+  },
+  {
+    "Brand": "Acura",
+    "Model": "NSX",
+    "Name on Card": "'90 Acura NSX",
+    "Color": "Red",
+    "Series": "Red Edition",
+    "Card Number": "FKC15",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Dodge",
+    "Model": "SRT Viper",
+    "Name on Card": "2013 SRT Viper",
+    "Color": "Blue",
+    "Series": "HW Workshop",
+    "Card Number": "BFG15",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Dodge",
+    "Model": "SRT Viper GTS-R",
+    "Name on Card": "SRT Viper GTS-R",
+    "Color": "Silver",
+    "Series": "HW Race",
+    "Card Number": "CFG99",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Dodge",
+    "Model": "Coronet Superbee",
+    "Name on Card": "'69 Dodge Coronet Superbee",
+    "Color": "Green",
+    "Series": "HW Workshop",
+    "Card Number": "BFD91",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Dodge",
+    "Model": "Challenger",
+    "Name on Card": "'71 Dodge Challenger",
+    "Color": "Red",
+    "Series": "HW Workshop",
+    "Card Number": "CFJ05",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Dodge",
+    "Model": "Ram 1500",
+    "Name on Card": "Dodge Ram 1500",
+    "Color": "Green",
+    "Series": "HW Off-Road",
+    "Card Number": "BFD59",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Dodge",
+    "Model": "Dart",
+    "Name on Card": "'68 Dodge Dart",
+    "Color": "Silver",
+    "Series": "HW Workshop",
+    "Card Number": "BFD90",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Dodge",
+    "Model": "Charger",
+    "Name on Card": "'70 Dodge Charger",
+    "Color": "Black",
+    "Series": "HW Screen Time",
+    "Card Number": "FJW36",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Dodge",
+    "Model": "Charger",
+    "Name on Card": "Ice Charger",
+    "Color": "Silver",
+    "Series": "HW Screen Time",
+    "Card Number": "FJW40",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Dodge",
+    "Model": "Challenger",
+    "Name on Card": "'71 Dodge Challenger",
+    "Color": "Yellow",
+    "Series": "HW Workshop",
+    "Card Number": "BFF18",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Dodge",
+    "Model": "SRT Viper",
+    "Name on Card": "2013 SRT Viper",
+    "Color": "Yellow",
+    "Series": "HW Workshop",
+    "Card Number": "BFD76",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Dodge",
+    "Model": "Viper SRT10 ACR",
+    "Name on Card": "Dodge Viper SRT10 ACR",
+    "Color": "White",
+    "Series": "HW Workshop",
+    "Card Number": "CFJ13",
+    "Quantity": 2
+  },
+  {
+    "Brand": "Dodge",
+    "Model": "Demon",
+    "Name on Card": "'71 Dodge Demon",
+    "Color": "Teal",
+    "Series": "HW Workshop",
+    "Card Number": "X1797",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Dodge",
+    "Model": "Demon",
+    "Name on Card": "'71 Dodge Demon",
+    "Color": "Purple",
+    "Series": "HW Workshop",
+    "Card Number": "BFD95",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Dodge",
+    "Model": "Charger",
+    "Name on Card": "1974 Brazilian Dodge Charger",
+    "Color": "Red",
+    "Series": "HW Workshop",
+    "Card Number": "BFG72",
+    "Quantity": 2
+  },
+  {
+    "Brand": "Dodge",
+    "Model": "Demon",
+    "Name on Card": "'71 Dodge Demon",
+    "Color": "Orange",
+    "Series": "HW Workshop",
+    "Card Number": "BFG49",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Dodge",
+    "Model": "Charger Daytona",
+    "Name on Card": "'69 Dodge Charger Daytona",
+    "Color": "Green",
+    "Series": "HW Workshop",
+    "Card Number": "BFG63",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Dodge",
+    "Model": "Charger Daytona",
+    "Name on Card": "'69 Dodge Charger Daytona",
+    "Color": "Red",
+    "Series": "HW Workshop",
+    "Card Number": "BFF11",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Dodge",
+    "Model": "Charger 500",
+    "Name on Card": "'69 Dodge Charger 500",
+    "Color": "Purple",
+    "Series": "HW City",
+    "Card Number": "CFJ71",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Chevrolet",
+    "Model": "Camaro",
+    "Name on Card": "2013 Hot Wheels Chevy Camaro Special Edition",
+    "Color": "Red",
+    "Series": "HW Workshop",
+    "Card Number": "BFD75",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Chevrolet",
+    "Model": "Corvette",
+    "Name on Card": "'69 Corvette",
+    "Color": "Purple",
+    "Series": "HW Workshop",
+    "Card Number": "BFD93",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Chevrolet",
+    "Model": "El Camino",
+    "Name on Card": "'68 El Camino",
+    "Color": "Blue",
+    "Series": "HW Off-Road",
+    "Card Number": "CFK69",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Chevrolet",
+    "Model": "Camaro",
+    "Name on Card": "'70 Camaro",
+    "Color": "Green",
+    "Series": "HW Workshop",
+    "Card Number": "BFF08",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Chevrolet",
+    "Model": "Corvette Stingray",
+    "Name on Card": "Corvette Stingray",
+    "Color": "Purple",
+    "Series": "HW Showroom",
+    "Card Number": "X1972",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Chevrolet",
+    "Model": "Vega",
+    "Name on Card": "Custom V-8 Vega",
+    "Color": "Red",
+    "Series": "HW Workshop",
+    "Card Number": "BFG54",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Chevrolet",
+    "Model": "Silverado",
+    "Name on Card": "Chevy Silverado",
+    "Color": "Blue",
+    "Series": "HW Off-Road",
+    "Card Number": "BFD58",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Chevrolet",
+    "Model": "Pickup",
+    "Name on Card": "Custom '69 Chevy Pickup",
+    "Color": "Orange",
+    "Series": "HW Workshop",
+    "Card Number": "BFD96",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Chevrolet",
+    "Model": "Camaro",
+    "Name on Card": "'70 Camaro",
+    "Color": "Yellow",
+    "Series": "HW Workshop",
+    "Card Number": "BFV56",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Chevrolet",
+    "Model": "Chevelle",
+    "Name on Card": "'70 Chevy Chevelle",
+    "Color": "Blue",
+    "Series": "HW Workshop",
+    "Card Number": "CFH39",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Chevrolet",
+    "Model": "Corvette Grand Sport",
+    "Name on Card": "Corvette Grand Sport",
+    "Color": "Blue",
+    "Series": "HW Showroom",
+    "Card Number": "X1824",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Chevrolet",
+    "Model": "Pickup",
+    "Name on Card": "'52 Chevy",
+    "Color": "Red",
+    "Series": "HW Workshop",
+    "Card Number": "CFJ21",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Chevrolet",
+    "Model": "Corvette Stingray",
+    "Name on Card": "'14 Corvette Stingray",
+    "Color": "Red",
+    "Series": "HW Workshop",
+    "Card Number": "BDD19",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Chevrolet",
+    "Model": "Corvette Stingray",
+    "Name on Card": "Corvette Stingray",
+    "Color": "Green",
+    "Series": "HW Showroom",
+    "Card Number": "X1818",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Chevrolet",
+    "Model": "Corvette Stingray",
+    "Name on Card": "2014 Corvette Stingray",
+    "Color": "Grey",
+    "Series": "HW Workshop",
+    "Card Number": "BFD78",
+    "Quantity": 2
+  },
+  {
+    "Brand": "Chevrolet",
+    "Model": "Corvette Stingray",
+    "Name on Card": "'64 Corvette Sting Ray",
+    "Color": "Red",
+    "Series": "HW Workshop",
+    "Card Number": "BFF02",
+    "Quantity": 2
+  },
+  {
+    "Brand": "Chevrolet",
+    "Model": "Impala",
+    "Name on Card": "'65 Chevy Impala",
+    "Color": "Red",
+    "Series": "HW Workshop",
+    "Card Number": "BFD97",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Chevrolet",
+    "Model": "Bel Air Gasser",
+    "Name on Card": "'55 Chevy Bel Air Gasser",
+    "Color": "Blue",
+    "Series": "HW Workshop",
+    "Card Number": "BFF17",
+    "Quantity": 2
+  },
+  {
+    "Brand": "Chevrolet",
+    "Model": "Copo Camaro",
+    "Name on Card": "'13 Copo Camaro",
+    "Color": "Red",
+    "Series": "HW Workshop",
+    "Card Number": "BFG68",
+    "Quantity": 2
+  },
+  {
+    "Brand": "Chevrolet",
+    "Model": "Nova",
+    "Name on Card": "'64 Chevy Nova Station Wagon",
+    "Color": "Bronze",
+    "Series": "HW Workshop",
+    "Card Number": "BFF13",
+    "Quantity": 2
+  },
+  {
+    "Brand": "Chevrolet",
+    "Model": "Chevelle SS",
+    "Name on Card": "'67 Chevelle SS 396",
+    "Color": "Yellow",
+    "Series": "HW Workshop",
+    "Card Number": "BFF09",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Chevrolet",
+    "Model": "Chevelle SS",
+    "Name on Card": "'70 Chevelle SS Wagon",
+    "Color": "White",
+    "Series": "HW Workshop",
+    "Card Number": "BFF21",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Chevrolet",
+    "Model": "II",
+    "Name on Card": "'63 Chevy II",
+    "Color": "Blue",
+    "Series": "Muscle Mania",
+    "Card Number": "DHP13",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Chevrolet",
+    "Model": "Chevelle",
+    "Name on Card": "'70 Chevelle",
+    "Color": "Purple",
+    "Series": "HW Workshop",
+    "Card Number": "BFF19",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Chevrolet",
+    "Model": "SS",
+    "Name on Card": "Chevrolet SS",
+    "Color": "Blue",
+    "Series": "HW Workshop",
+    "Card Number": "BFD73",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Dodge",
+    "Model": "Challenger",
+    "Name on Card": "Dodge Challenger Drift Car",
+    "Color": "Yellow",
+    "Series": "HW Off-Road",
+    "Card Number": "BFC98",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Ford",
+    "Model": "Mustang Mach 1",
+    "Name on Card": "1971 Mustang Mach 1",
+    "Color": "Bronze",
+    "Series": "HW City",
+    "Card Number": "BFD84",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Ford",
+    "Model": "Torino Talladegaa",
+    "Name on Card": "'69 Ford Torino Talladega",
+    "Color": "Silver",
+    "Series": "HW Workshop",
+    "Card Number": "BFV58",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Ford",
+    "Model": "Mustang GT",
+    "Name on Card": "'13 Ford Mustang GT",
+    "Color": "Silver",
+    "Series": "HW Race",
+    "Card Number": "BFG58",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Ford",
+    "Model": "Galaxie 500",
+    "Name on Card": "Custom '64 Galaxie 500",
+    "Color": "Red",
+    "Series": "HW Workshop",
+    "Card Number": "BFF26",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Ford",
+    "Model": "Mustang Mach 1",
+    "Name on Card": "'70 Ford Mustang Mach 1",
+    "Color": "Green",
+    "Series": "HW City",
+    "Card Number": "BFD87",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Ford",
+    "Model": "Galaxie 500",
+    "Name on Card": "Custom '64 Galaxie 500",
+    "Color": "Green",
+    "Series": "HW Workshop",
+    "Card Number": "BFG09",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Ford",
+    "Model": "Mustang",
+    "Name on Card": "'69 Ford Mustang",
+    "Color": "Green",
+    "Series": "HW Workshop",
+    "Card Number": "X1848",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Ford",
+    "Model": "Mustang",
+    "Name on Card": "'67 Custom Mustang",
+    "Color": "Blue",
+    "Series": "HW City",
+    "Card Number": "BFD88",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Ford",
+    "Model": "Mustang",
+    "Name on Card": "'07 Ford Mustang",
+    "Color": "Red",
+    "Series": "HW City",
+    "Card Number": "BFD85",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Ford",
+    "Model": "Focus RS",
+    "Name on Card": "Ford Focus RS",
+    "Color": "White",
+    "Series": "HW Speed Graphics",
+    "Card Number": "DTX64",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Ford",
+    "Model": "Torino Talladegaa",
+    "Name on Card": "'69 Ford Torino Talladega",
+    "Color": "Yellow",
+    "Series": "HW Showroom",
+    "Card Number": "X1852",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Ford",
+    "Model": "Ranchero",
+    "Name on Card": "'72 Ford Ranchero",
+    "Color": "Red",
+    "Series": "HW Off-Road",
+    "Card Number": "BFD60",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Ford",
+    "Model": "Mustang",
+    "Name on Card": "'67 Ford Mustang Coupe",
+    "Color": "Green",
+    "Series": "HW City",
+    "Card Number": "BFD83",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Ford",
+    "Model": "Mustang",
+    "Name on Card": "Custom '12 Ford Mustang",
+    "Color": "Purple",
+    "Series": "HW City",
+    "Card Number": "BFF66",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Ford",
+    "Model": "Falcon XB",
+    "Name on Card": "'73 Ford Falcon XB",
+    "Color": "Orange",
+    "Series": "HW Workshop",
+    "Card Number": "BFF15",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Ford",
+    "Model": "GT",
+    "Name on Card": "'17 Ford GT",
+    "Color": "Silver",
+    "Series": "Nightburnerz",
+    "Card Number": "DTY76",
+    "Quantity": 3
+  },
+  {
+    "Brand": "Ford",
+    "Model": "Gran Torino Sport",
+    "Name on Card": "'72 Ford Gran Torino Sport",
+    "Color": "Blue",
+    "Series": "HW Workshop",
+    "Card Number": "BFF24",
+    "Quantity": 2
+  },
+  {
+    "Brand": "Ford",
+    "Model": "Torino Talladegaa",
+    "Name on Card": "'69 Ford Torino Talladega",
+    "Color": "Red",
+    "Series": "HW Workshop",
+    "Card Number": "BFF12",
+    "Quantity": 2
+  },
+  {
+    "Brand": "Ford",
+    "Model": "Mustang",
+    "Name on Card": "'67 Custom Mustang",
+    "Color": "Zamac",
+    "Series": "HW City",
+    "Card Number": "BFG90",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Ford",
+    "Model": "Shelby GT500",
+    "Name on Card": "'68 Shelby GT500",
+    "Color": "Blue",
+    "Series": "HW Workshop",
+    "Card Number": "CFJ04",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Ford",
+    "Model": "Mustang",
+    "Name on Card": "Custom '15 Ford Mustang",
+    "Color": "Green",
+    "Series": "Then and Now",
+    "Card Number": "DHR25",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Ford",
+    "Model": "GT Race",
+    "Name on Card": "2016 Ford GT Race",
+    "Color": "Blue",
+    "Series": "HW Speed Graphics",
+    "Card Number": "DTW92",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Ford",
+    "Model": "Mustang GT",
+    "Name on Card": "'15 Ford Mustang GT",
+    "Color": "Blue",
+    "Series": "HW Workshop",
+    "Card Number": "CFJ24",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Ford",
+    "Model": "Falcon XB",
+    "Name on Card": "'73 Ford Falcon XB",
+    "Color": "Purple",
+    "Series": "HW Workshop",
+    "Card Number": "BFV61",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Ford",
+    "Model": "Mustang",
+    "Name on Card": "1999 Ford Mustang",
+    "Color": "Silver",
+    "Series": "HW City",
+    "Card Number": "BFG31",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Volkswagen",
+    "Model": "Kombi",
+    "Name on Card": "Volkswagen Kool Kombi",
+    "Color": "Blue",
+    "Series": "HW Workshop",
+    "Card Number": "BFG01",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Datsun",
+    "Model": "240Z",
+    "Name on Card": "Custom Datsun 240Z",
+    "Color": "White",
+    "Series": "Factory Fresh",
+    "Card Number": "DTW89",
+    "Quantity": 3
+  },
+  {
+    "Brand": "Datsun",
+    "Model": "240Z",
+    "Name on Card": "Custom Datsun 240Z",
+    "Color": "Maroon",
+    "Series": "Nightburnerz",
+    "Card Number": "FJY95",
+    "Quantity": 2
+  },
+  {
+    "Brand": "Datsun",
+    "Model": "240Z",
+    "Name on Card": "Custom Datsun 240Z",
+    "Color": "Orange",
+    "Series": "Factory Fresh",
+    "Card Number": "DVB43",
+    "Quantity": 2
+  },
+  {
+    "Brand": "Nissan",
+    "Model": "Fairlady Z",
+    "Name on Card": "Nissan Fairlady Z",
+    "Color": "White",
+    "Series": "HW Speed Graphics",
+    "Card Number": "FJW49",
+    "Quantity": 4
+  },
+  {
+    "Brand": "Nissan",
+    "Model": "370Z",
+    "Name on Card": "Nissan 370Z",
+    "Color": "White",
+    "Series": "HW Workshop",
+    "Card Number": "BFF25",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Nissan",
+    "Model": "370Z",
+    "Name on Card": "Nissan 370Z",
+    "Color": "Red",
+    "Series": "HW Workshop",
+    "Card Number": "BFF54",
+    "Quantity": 2
+  },
+  {
+    "Brand": "Nissan",
+    "Model": "Fairlady Z",
+    "Name on Card": "Nissan Fairlady Z",
+    "Color": "Blue",
+    "Series": "HW Speed Graphics",
+    "Card Number": "DHP27",
+    "Quantity": 2
+  },
+  {
+    "Brand": "Nissan",
+    "Model": "Fairlady Z",
+    "Name on Card": "Nissan Fairlady Z",
+    "Color": "Red",
+    "Series": "HW Speed Graphics",
+    "Card Number": "FJY42",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Nissan",
+    "Model": "Fairlady 2000",
+    "Name on Card": "Nissan Fairlady 2000",
+    "Color": "Baby Blue",
+    "Series": "HW Speed Graphics",
+    "Card Number": "FJW43",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Nissan",
+    "Model": "Fairlady 2000",
+    "Name on Card": "Nissan Fairlady 2000",
+    "Color": "Yellow",
+    "Series": "Legends Of Speed",
+    "Card Number": "DTW94",
+    "Quantity": 2
+  },
+  {
+    "Brand": "Nissan",
+    "Model": "Skyline",
+    "Name on Card": "'82 Nissan Skyline R30",
+    "Color": "Grey",
+    "Series": "Factory Fresh",
+    "Card Number": "FJY21",
+    "Quantity": 5
+  },
+  {
+    "Brand": "Nissan",
+    "Model": "Skyline",
+    "Name on Card": "Nissan Skyline 2000 GT-R",
+    "Color": "Blue",
+    "Series": "Then and Now",
+    "Card Number": "FJX88",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Nissan",
+    "Model": "Skyline",
+    "Name on Card": "Nissan Skyline GT-R (R34)",
+    "Color": "Black",
+    "Series": "HW Workshop",
+    "Card Number": "BFF07",
+    "Quantity": 1
+  },
+  {
+    "Brand": "Nissan",
+    "Model": "Skyline",
+    "Name on Card": "Nissan Skyline GT-R R33",
+    "Color": "Purple",
+    "Series": "Then and Now",
+    "Card Number": "FJY75",
+    "Quantity": 6
+  },
+  {
+    "Brand": "Nissan",
+    "Model": "180SX",
+    "Name on Card": "'96 Nissan 180SX Type X",
+    "Color": "Black",
+    "Series": "Nightburnerz",
+    "Card Number": "FJX70",
+    "Quantity": 6
+  },
+  {
+    "Brand": "Nissan",
+    "Model": "GT-R",
+    "Name on Card": "'17 Nissan GT-R (R35)",
+    "Color": "Orange",
+    "Series": "Nightburnerz",
+    "Card Number": "DTW99",
+    "Quantity": 6
+  }
+]
